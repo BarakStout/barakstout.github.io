@@ -1,3 +1,4 @@
 remote_theme: "mmistakes/minimal-mistakes"
-title: my new site
+title: BarakStout.com
 show_downloads: "false"
+markdown: github
