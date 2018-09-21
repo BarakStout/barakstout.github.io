@@ -2,4 +2,4 @@ remote_theme: "mmistakes/minimal-mistakes"
 title: BarakStout.com
 show_downloads: "false"
 markdown: github
-include: ["_pages"]
+include: "_pages"
