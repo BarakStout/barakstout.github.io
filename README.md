@@ -1,5 +1,3 @@
----
-title: Welcome
----
+# Welcome to my website !
 
-Hello there...
+Hello
