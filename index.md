@@ -1,6 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+Page title: Welcome to BarakStout.com
 ---
+
+Welcome to my website!
+
+More content will be here soon 
