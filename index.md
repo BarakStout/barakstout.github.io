@@ -1,6 +1,6 @@
 ---
 
-layout: default
+layout: home
 Page title: Welcome to BarakStout.com
 ---
 
