@@ -1,6 +1,6 @@
 ---
 
-layout: home
+layout: default
 Page title: Welcome to Barak Stout's Website
 ---
 
