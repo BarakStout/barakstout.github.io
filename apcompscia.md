@@ -8,7 +8,7 @@ mathjax: true
 # AP Computer Science A
 
 ## About the exam
-AP Computer Science A is all about Object Oriented Programming in Java. This year will be on Friday, May 17, 2019 @ noon. The exam has 2 parts, both are 90 minutes long.
+AP Computer Science A is all about Object Oriented Programming in Java. This year will be on *Friday, May 17, 2019 @ noon*. The exam has 2 parts, both are 90 minutes long.
   * Part I - 40 Multiple Choice Questions
   * Part II - 4 Free Response Questions
 
@@ -31,9 +31,9 @@ For more details & information about the exam visit the [College Board AP Comput
 
   * Make sure to pay attention to if-statements and loops without curly brackets. Recall that in Java, such blocks only execute one line of code in absence of curly brackets.
 
-  * With Boolean questions, make sure to remember [De Morgan's Law](https://en.wikipedia.org/wiki/De_Morgan%27s_laws): $$ A and B = !(A or B) $$
+  * With Boolean questions, make sure to remember [De Morgan's Law](https://en.wikipedia.org/wiki/De_Morgan%27s_laws): $$ 	\neg(P \wedge Q) \equiv \neg P \vee \neg Q $$
 
-  * Speaking of Boolean questions, when in doubt, construct a [Truth Table](https://en.wikipedia.org/wiki/Truth_table). 
+  * Speaking of Boolean questions, when in doubt, construct a [Truth Table](https://en.wikipedia.org/wiki/Truth_table).
 
 * For part II:
 
