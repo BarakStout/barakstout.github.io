@@ -31,7 +31,7 @@ For more details & information about the exam visit the [College Board AP Comput
 
   * Make sure to pay attention to if-statements and loops without curly brackets. Recall that in Java, such blocks only execute one line of code in absence of curly brackets.
 
-  * With Boolean questions, make sure to remember [De Morgan's Law](https://en.wikipedia.org/wiki/De_Morgan%27s_laws): $$ 	\neg(A \wedge B) \equiv \neg A \vee \neg B $$
+  * With Boolean questions, make sure to remember [De Morgan's Law](https://en.wikipedia.org/wiki/De_Morgan%27s_laws): $$ 	!(\Alpha and \Beta) \equiv  !\Alpha or \neg !\Beta $$
 
   * Speaking of Boolean questions, when in doubt, construct a [Truth Table](https://en.wikipedia.org/wiki/Truth_table).
 
