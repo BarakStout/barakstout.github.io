@@ -34,6 +34,8 @@ For more details & information about the exam visit the [College Board AP Comput
 
 [Mr. Stout GitHub Repo](https://github.com/BarakStout)
 
+[Appendix B](https://apcentral.collegeboard.org/pdf/ap-computer-science-a-2014-java-quick-reference.pdf) This reference is available to you during both parts of the exam.
+
 ## College Board Labs
 {: id="college_board_labs"}
 
@@ -67,6 +69,8 @@ The following projects are great practice:
 {: id="Mr. Stout's AP Exam Tips"}
 
 * Breath! There is plenty of time.
+
+* Study [Appendix B](https://apcentral.collegeboard.org/pdf/ap-computer-science-a-2014-java-quick-reference.pdf), it has lots of information
 
 * For part I:
   * You will have 90 minutes to solve correctly 40 questions. That means you will have 2 minutes and 15 seconds per question.
