@@ -9,9 +9,16 @@ mathjax: true
 
 ## Table of Contents
 
+[About the Exam](#about_the_exam)
+[Helpful Links](#helpful_links)
+[College Board Labs](#college_board_labs)
+[Recommended Projects](#recommended_projects)
 [Final Review Sites](#final_review_sites)
+[Even More Practice](#even_more_practice)
 
-## About the exam
+## About the Exam
+{: id="about_the_exam"}
+
 AP Computer Science A is all about Object Oriented Programming in Java. This year will be on *Friday, May 17, 2019 @ noon*. The exam has 2 parts, both are 90 minutes long.
   * Part I - 40 Multiple Choice Questions
   * Part II - 4 Free Response Questions
@@ -19,12 +26,14 @@ AP Computer Science A is all about Object Oriented Programming in Java. This yea
 For more details & information about the exam visit the [College Board AP Computer Science A Website](https://apcentral.collegeboard.org/courses/ap-computer-science-a?course=ap-computer-science-a)
 
 ## Helpful Links
+{: id="helpful_links"}
 
 [Miller's GitHub Repo](https://github.com/MillerHollinger)
 
 [Mr. Stout GitHub Repo](https://github.com/BarakStout)
 
 ## College Board Labs
+{: id="college_board_labs"}
 
 There are 3 required labs (projects) that you need to complete prior to taking the AP. You will be given plenty of time in class to complete these assignments. You will not be tested on the content of the labs, but some concepts from them may appear on the exam in different ways. Each lab has a written student guide as well as a starter code. The links to both are bellow:
 
@@ -42,7 +51,18 @@ There are 3 required labs (projects) that you need to complete prior to taking t
   * [Picture Lab Starter Code]()
   * [Picture Lab Student Guide](http://media.collegeboard.com/digitalServices/pdf/ap/ap-compscia-picture-lab-student-guide.pdf)
 
+## Recommended Projects
+{: id="recommended_projects"}
+
+The following projects are great practice:
+
+* Hangman
+* Tic Tac Toe
+* Battle Ships
+* Mine Sweeaper
+
 ## Mr. Stout's AP Exam Tips
+{: id="Mr. Stout's AP Exam Tips"}
 
 * Breath! There is plenty of time.
 
@@ -73,5 +93,5 @@ There are 3 required labs (projects) that you need to complete prior to taking t
 * [Georgia Tech Practice Tool](http://ice.cc.gatech.edu/apexam_final/begin_test_practice.jsp) - A great place to practice AP style questions. Simply enter the number of questions you would like. Make sure not to change the exam type.
 
 ## Want even more practice?
-
+{: id="even_more_practice"}
 * [Hacker Rank](https://www.hackerrank.com/domains/java) - Hacker Rank has a huge collection of programming problems on many different levels with immediate feedback and solutions.
