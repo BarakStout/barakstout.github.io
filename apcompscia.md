@@ -7,6 +7,8 @@ mathjax: true
 
 # AP Computer Science A
 
+_Disclaimer:_ All the information provided is based on my personal experience and opinion. YMMV. 
+
 ## Quick Links
 
 * [About the Exam](#about_the_exam)
