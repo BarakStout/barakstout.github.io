@@ -7,6 +7,10 @@ mathjax: true
 
 # AP Computer Science A
 
+## Table of Contents
+
+[Final Review Sites](#final_review_sites)
+
 ## About the exam
 AP Computer Science A is all about Object Oriented Programming in Java. This year will be on *Friday, May 17, 2019 @ noon*. The exam has 2 parts, both are 90 minutes long.
   * Part I - 40 Multiple Choice Questions
@@ -28,9 +32,11 @@ There are 3 required labs (projects) that you need to complete prior to taking t
   * [Magpie Lab Student Starter Code]()
   * [Magpie Lab Student Guide](http://media.collegeboard.com/digitalServices/pdf/ap/ap-compscia-magpie-lab-student-guide.pdf)
 
+
 * **Elevens Lab:** For this lab you will be creating a solitare like game called Elevens. The lab will walk you through the rules and at the end you will make a working version of the game including a [Graphical User Interface](https://en.wikipedia.org/wiki/Graphical_user_interface) (GUI).  
   * [Elevens Lab Starter Code]()
   * [Elevens Lab Student Guide](http://media.collegeboard.com/digitalServices/pdf/ap/ap-compscia-elevens-lab-student-guide.pdf)
+
 
 * **Picture Lab:** This Lab will teach you the basics of how images are stored in memory. You will learn about grayscale and RGB images and way to manipulated them.
   * [Picture Lab Starter Code]()
@@ -47,7 +53,7 @@ There are 3 required labs (projects) that you need to complete prior to taking t
 
   * Make sure to pay attention to if-statements and loops without curly brackets. Recall that in Java, such blocks only execute one line of code in absence of curly brackets.
 
-  * With Boolean questions, make sure to remember [De Morgan's Law](https://en.wikipedia.org/wiki/De_Morgan%27s_laws): $$ 	!(A \; \&\& \; B) ==  !A \; \vert \vert \; !B $$
+  * With Boolean questions, make sure to remember [De Morgan's Law](https://en.wikipedia.org/wiki/De_Morgan%27s_laws): $$ \;	!(A \; \&\& \; B) == \;  !A \; \vert \vert \; !B $$
 
   * Speaking of Boolean questions, when in doubt, construct a [Truth Table](https://en.wikipedia.org/wiki/Truth_table).
 
@@ -60,6 +66,7 @@ There are 3 required labs (projects) that you need to complete prior to taking t
   * Make sure your hand writing is as neat as possible. Although you will not lose point for poor hand writing per say, however it will make the grader's life easier to give you points if they can make out what you wrote.
 
 ## Final Review sites
+{: id="final_review_sites"}
 
 * [Java Review for the AP CS A Exam](http://interactivepython.org/runestone/static/JavaReview/index.html) - A complete review of everything you need to know for the exam, broken down to small units. Each unit contains lots of examples and practice questions.
 
