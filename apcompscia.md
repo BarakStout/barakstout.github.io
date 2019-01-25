@@ -7,14 +7,14 @@ mathjax: true
 
 # AP Computer Science A
 
-## Table of Contents
+## Quick Links
 
-[About the Exam](#about_the_exam)
-[Helpful Links](#helpful_links)
-[College Board Labs](#college_board_labs)
-[Recommended Projects](#recommended_projects)
-[Final Review Sites](#final_review_sites)
-[Even More Practice](#even_more_practice)
+* [About the Exam](#about_the_exam)
+* [Helpful Links](#helpful_links)
+* [College Board Labs](#college_board_labs)
+* [Recommended Projects](#recommended_projects)
+* [Final Review Sites](#final_review_sites)
+* [Even More Practice](#even_more_practice)
 
 ## About the Exam
 {: id="about_the_exam"}
