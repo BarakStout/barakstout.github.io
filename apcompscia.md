@@ -20,6 +20,22 @@ For more details & information about the exam visit the [College Board AP Comput
 
 [Mr. Stout GitHub Repo](https://github.com/BarakStout)
 
+## College Board Labs
+
+There are 3 required labs (projects) that you need to complete prior to taking the AP. You will be given plenty of time in class to complete these assignments. You will not be tested on the content of the labs, but some concepts from them may appear on the exam in different ways. Each lab has a written student guide as well as a starter code. The links to both are bellow:
+
+* **Magpie Lab:** In this lab you will build a chat bot and get intruded to the wonderful world of [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), a field that has been growing rapidly. You will be using mostly String methods and if-statements for this lab.
+  * [Magpie Lab Student Starter Code]()
+  * [Magpie Lab Student Guide](http://media.collegeboard.com/digitalServices/pdf/ap/ap-compscia-magpie-lab-student-guide.pdf)
+
+* **Elevens Lab:** For this lab you will be creating a solitare like game called Elevens. The lab will walk you through the rules and at the end you will make a working version of the game including a [Graphical User Interface](https://en.wikipedia.org/wiki/Graphical_user_interface) (GUI).  
+  * [Elevens Lab Starter Code]()
+  * [Elevens Lab Student Guide](http://media.collegeboard.com/digitalServices/pdf/ap/ap-compscia-elevens-lab-student-guide.pdf)
+
+* **Picture Lab:** This Lab will teach you the basics of how images are stored in memory. You will learn about grayscale and RGB images and way to manipulated them.
+  * [Picture Lab Starter Code]()
+  * [Picture Lab Student Guide](http://media.collegeboard.com/digitalServices/pdf/ap/ap-compscia-picture-lab-student-guide.pdf)
+
 ## Mr. Stout's AP Exam Tips
 
 * Breath! There is plenty of time.
@@ -31,7 +47,7 @@ For more details & information about the exam visit the [College Board AP Comput
 
   * Make sure to pay attention to if-statements and loops without curly brackets. Recall that in Java, such blocks only execute one line of code in absence of curly brackets.
 
-  * With Boolean questions, make sure to remember [De Morgan's Law](https://en.wikipedia.org/wiki/De_Morgan%27s_laws): $$ 	!(A \; \&\& \; B) ==  !\Alpha \vert \vert !\Beta $$
+  * With Boolean questions, make sure to remember [De Morgan's Law](https://en.wikipedia.org/wiki/De_Morgan%27s_laws): $$ 	!(A \; \&\& \; B) ==  !A \; \vert \vert \; !B $$
 
   * Speaking of Boolean questions, when in doubt, construct a [Truth Table](https://en.wikipedia.org/wiki/Truth_table).
 
