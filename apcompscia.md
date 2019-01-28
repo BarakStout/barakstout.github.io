@@ -7,7 +7,7 @@ mathjax: true
 
 # AP Computer Science A
 
-_Disclaimer:_ All the information provided here is based on my personal experience and opinion. YMMV.  
+_Disclaimer:_ All the information provided here is based on my personal experience and opinion. YMMV. AP and Advanced Placement Program are registered trademarks of the College Board, which is not involved in and does not endorse this web site.
 
 ## Quick Links
 
@@ -34,7 +34,7 @@ For more details & information about the exam visit the [College Board AP Comput
 
 [Mr. Stout GitHub Repo](https://github.com/BarakStout)
 
-[Appendix B](https://apcentral.collegeboard.org/pdf/ap-computer-science-a-2014-java-quick-reference.pdf) This reference is available to you during both parts of the exam.
+[Appendix B](https://apcentral.collegeboard.org/pdf/ap-computer-science-a-2014-java-quick-reference.pdf) - This reference is available to you during both parts of the exam.
 
 ## College Board Labs
 {: id="college_board_labs"}
@@ -42,17 +42,17 @@ For more details & information about the exam visit the [College Board AP Comput
 There are 3 required labs (projects) that you need to complete prior to taking the AP. You will be given plenty of time in class to complete these assignments. You will not be tested on the content of the labs, but some concepts from them may appear on the exam in different ways. Each lab has a written student guide as well as a starter code. The links to both are bellow:
 
 * **Magpie Lab:** In this lab you will build a chat bot and get intruded to the wonderful world of [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), a field that has been growing rapidly. You will be using mostly String methods and if-statements for this lab.
-  * [Magpie Lab Student Starter Code]()
+  * [Magpie Lab Student Starter Code](https://github.com/BarakStout/AP-Comp-Sci-A/blob/master/CollegeBoardLabs/MagpieActivityStarterCode.zip)
   * [Magpie Lab Student Guide](http://media.collegeboard.com/digitalServices/pdf/ap/ap-compscia-magpie-lab-student-guide.pdf)
 
 
 * **Elevens Lab:** For this lab you will be creating a solitare like game called Elevens. The lab will walk you through the rules and at the end you will make a working version of the game including a [Graphical User Interface](https://en.wikipedia.org/wiki/Graphical_user_interface) (GUI).  
-  * [Elevens Lab Starter Code]()
+  * [Elevens Lab Starter Code](https://github.com/BarakStout/AP-Comp-Sci-A/blob/master/CollegeBoardLabs/ElevensActivityStarterCode.zip)
   * [Elevens Lab Student Guide](http://media.collegeboard.com/digitalServices/pdf/ap/ap-compscia-elevens-lab-student-guide.pdf)
 
 
 * **Picture Lab:** This Lab will teach you the basics of how images are stored in memory. You will learn about grayscale and RGB images and way to manipulated them.
-  * [Picture Lab Starter Code]()
+  * [Picture Lab Starter Code](https://github.com/BarakStout/AP-Comp-Sci-A/blob/master/CollegeBoardLabs/PictureActivityStarterCode.zip)
   * [Picture Lab Student Guide](http://media.collegeboard.com/digitalServices/pdf/ap/ap-compscia-picture-lab-student-guide.pdf)
 
 ## Recommended Projects
