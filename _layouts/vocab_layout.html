@@ -20,10 +20,8 @@
           <li>
               {% for vocabWord in vocab %}
                 {{ vocabWord | json }}
-                  {{vocabWord.Term}}
-                  <ol><li>HI! {{vocabWord.Value}}</li></ol>
+                  
               {% endfor %}
-            </a>
           </li>
         {% endfor %}
 
