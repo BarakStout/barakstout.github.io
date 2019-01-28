@@ -19,9 +19,7 @@
         {% for vocab in site.data.APCompSciAVocab.APCompSciVocab %}
           <li>
               {% for vocabWord in vocab %}
-                =>{{ vocabWord | json }} <br>
-                2. {{vocabWord}} <br>
-                3. {{vocabWord[0]}} <br>
+                {{ vocabWord[0] | json }} 
               {% endfor %}
 
           </li>
