@@ -38,6 +38,27 @@
     {% if page.mathjax  %}
     <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
     {% endif %}
-    <script>console.log("hi");</script>
+    <script>console.log("hi");
+      // stack overflow - https://stackoverflow.com/questions/14446447/how-to-read-a-local-text-file
+      function readTextFile(file)
+      {
+          var rawFile = new XMLHttpRequest();
+          rawFile.open("GET", file, false);
+          rawFile.onreadystatechange = function ()
+          {
+              if(rawFile.readyState === 4)
+              {
+                  if(rawFile.status === 200 || rawFile.status == 0)
+                  {
+                      var allText = rawFile.responseText;
+                      alert(allText);
+                  }
+              }
+          }
+          rawFile.send(null);
+      }
+      console.log(readTextFile('APCompSciAVocab.json'));
+
+    </script>
   </body>
 </html>
