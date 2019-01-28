@@ -19,8 +19,10 @@
         {% for vocab in site.data.APCompSciAVocab.APCompSciVocab %}
           <li>
               {% for vocabWord in vocab %}
-                  {{vocabWord.Term}}
+                
+                  {{vocabWord.Value}}
               {% endfor %}
+
           </li>
         {% endfor %}
 
