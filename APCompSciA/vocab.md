@@ -2,7 +2,7 @@
 layout: default
 Page title: AP Computer Science A Vocabulary
 mathjax: true
-permalink: 
+permalink: /APCompSciA/vocab.html
 ---
 
 See bellow
