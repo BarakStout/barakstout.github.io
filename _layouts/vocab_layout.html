@@ -58,13 +58,19 @@
           }
           rawFile.send(null);
       }
-      jQuery.getJSON('APCompSciAVocab.json', function(data){
-        var json = $.parseJSON(data);
-        $(json).each(function(i,val){
-            $.each(val,function(k,v){
-                  console.log(k+" : "+ v);
-        });
-        });
+
+      $.ajax({
+          type: 'GET',
+          url: 'APCompSciAVocab.json',
+          data: { get_param: 'value' },
+          dataType: 'json',
+          success: function (data) {
+              $.each(data, function(index, element) {
+                  $('vocab_table').append($('<div>', {
+                      text: element.Term
+                  }));
+              });
+          }
       });
 
 
