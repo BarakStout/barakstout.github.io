@@ -16,9 +16,11 @@
       {% endif %}
 
       <div id="vocab_table">
-        {% for vocabWord in site.data.APCompSciAVocab.APCompSciVocab %}
+        {% for vocab in site.data.APCompSciAVocab.APCompSciVocab %}
           <li>
-              {{ vocabWord }}
+              {% for vocabWord in vocab %}
+                {{ vocabWord.Term }}
+              {% end for %}
             </a>
           </li>
         {% endfor %}
