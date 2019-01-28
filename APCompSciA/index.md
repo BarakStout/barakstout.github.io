@@ -2,6 +2,7 @@
 layout: default
 Page title: AP Computer Science A Resources
 mathjax: true
+permalink: /APCompSciA/
 ---
 
 # AP Computer Science A
