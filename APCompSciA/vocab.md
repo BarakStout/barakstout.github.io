@@ -1,8 +1,8 @@
 ---
-layout: vocab_layout
+layout: default
 Page title: AP Computer Science A Vocabulary
 mathjax: true
-permalink: /APCompSciA/
+permalink: 
 ---
 
 See bellow
