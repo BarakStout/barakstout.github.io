@@ -18,9 +18,8 @@
       <div id="vocab_table">
         {% for vocab in site.data.APCompSciAVocab.APCompSciVocab %}
           <li>
-              {% for vocabWord in vocab %}
-
-                4 {{vocab[1]}} <br>
+              {% for vocabWord in vocab[1] %}
+                Term: {{vocabWord.Term}}
               {% endfor %}
 
           </li>
