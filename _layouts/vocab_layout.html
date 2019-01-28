@@ -58,7 +58,8 @@
           }
           rawFile.send(null);
       }
-      $('#content').html(jQuery.getJSON('APCompSciAVocab.json'));
+      jQuery.getJSON('APCompSciAVocab.json', function(data) {$('#content').html(data);} );
+
 
     </script>
   </body>
