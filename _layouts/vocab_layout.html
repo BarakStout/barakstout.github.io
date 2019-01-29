@@ -20,8 +20,9 @@
           <li>
             {% for vocabWord in vocab %}
 
-                6.33: {{vocabWord | json}} <br>
-
+                6.33: {{% for v in vocabWord | json %}} <br>
+                        {{v.Term}}
+                      {{% endfor %}}
               {% endfor %}
           </li>
         {% endfor %}
