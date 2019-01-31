@@ -7,17 +7,6 @@ permalink: /APCompSciA/
 
 # AP Computer Science A
 
-_Disclaimer:_ All the information provided here is based on my personal experience and opinion. YMMV. AP and Advanced Placement Program are registered trademarks of the College Board, which is not involved in and does not endorse this web site.
-
-## Quick Links
-
-* [About the Exam](#about_the_exam)
-* [Helpful Links](#helpful_links)
-* [College Board Labs](#college_board_labs)
-* [Recommended Projects](#recommended_projects)
-* [Final Review Sites](#final_review_sites)
-* [Even More Practice](#even_more_practice)
-
 ## About the Exam
 {: id="about_the_exam"}
 
@@ -26,6 +15,17 @@ AP Computer Science A is all about Object Oriented Programming in Java. This yea
   * Part II - 4 Free Response Questions
 
 For more details & information about the exam visit the [College Board AP Computer Science A Website](https://apcentral.collegeboard.org/courses/ap-computer-science-a?course=ap-computer-science-a)
+
+_Disclaimer:_ All the information provided here is based on my personal experience and opinion. YMMV. AP and Advanced Placement Program are registered trademarks of the College Board, which is not involved in and does not endorse this web site.
+
+## Table of Contents
+
+* [Helpful Links](#helpful_links)
+* [College Board Labs](#college_board_labs)
+* [Recommended Projects](#recommended_projects)
+* [Final Review Sites](#final_review_sites)
+* [Even More Practice](#even_more_practice)
+
 
 ## Helpful Links
 {: id="helpful_links"}
