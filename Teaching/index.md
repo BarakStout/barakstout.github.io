@@ -1,3 +1,3 @@
 # Teaching
 
-[AP Computer Sceince A](/ApCompSciA/index.md)
+[AP Computer Sceince A](/APCompSciA/index.md)
