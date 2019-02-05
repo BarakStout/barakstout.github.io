@@ -30,6 +30,8 @@ plugins:
 relative_links:
   enabled:     true
   collections: false
+
+google_analytics: UA-33470546-1
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
