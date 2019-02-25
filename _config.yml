@@ -22,6 +22,11 @@ github_username:  barakstout
 repository: barakstout/barakstout.github.io
 # Build settings
 markdown: kramdown
+
+
+
+
+
 theme: jekyll-theme-primer
 plugins:
   - jekyll-feed
@@ -30,6 +35,10 @@ plugins:
 relative_links:
   enabled:     true
   collections: false
+
+
+
+
 
 google_analytics: UA-33470546-1
 # Exclude from processing.

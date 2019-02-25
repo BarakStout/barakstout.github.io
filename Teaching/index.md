@@ -1,10 +1,12 @@
 ---
-layout: default
-Page title: Teaching
+layout: teaching
+title: Teaching
 mathjax: true
-permalink: /Teaching/
+permalink: Teaching/
+categories:
+  - "AP Computer Science A"
 ---
 
-# Teaching
+# Teaching 
 
-[AP Computer Sceince A](/APCompSciA/index.md)
+<p>Select a class: </p>
