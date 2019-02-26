@@ -1,11 +1,9 @@
 ---
 layout: class
-Page title: AP Computer Science A Resources
+title: AP Computer Science A
 mathjax: true
 permalink: /Teaching/APComputerScienceA/
 ---
-
-# AP Computer Science A
 
 ## About the Exam
 {: id="about_the_exam"}
@@ -44,6 +42,8 @@ _Disclaimer:_ All the information provided here is based on my personal experien
 
 [AP Computer Science A Vocab List](vocab) - A comprehensive list of vocabulary words every AP Computer Science A should know.
 
+[Mr. Stout's AP Computer Science A Tips](tips) - A list of helpful tips & reminder to help you get through the exam.
+
 [7th Edition of the Barron's Book](http://www.mooreschools.com/cms/lib/OK01000367/Centricity/Domain/2162/Barrons%20AP%20Computer%20Science%20A%20%207th%20Edition.pdf)
 
 ## College Board Labs
@@ -75,34 +75,8 @@ The following projects are great practice:
 * Battle Ships
 * Mine Sweeaper
 
-## Mr. Stout's AP Exam Tips
-{: id="Mr. Stout's AP Exam Tips"}
-
-* Breath! There is plenty of time.
-
-* Study [Appendix B (AKA Quick Refrence)](https://apcentral.collegeboard.org/pdf/ap-computer-science-a-2014-java-quick-reference.pdf), it has lots of information
-
-* For part I:
-  * You will have 90 minutes to solve correctly 40 questions. That means you will have 2 minutes and 15 seconds per question.
-
-  * Some questions will take longer than others. Identify the questions you can solve quickly first and then go back to work on the ones that will take you longer.
-
-  * Make sure to pay attention to if-statements and loops without curly brackets. Recall that in Java, such blocks only execute one line of code in absence of curly brackets.
-
-  * With Boolean questions, make sure to remember [De Morgan's Law](https://en.wikipedia.org/wiki/De_Morgan%27s_laws): $$ \;	!(A \; \&\& \; B) == \;  !A \; \vert \vert \; !B $$
-
-  * Speaking of Boolean questions, when in doubt, construct a [Truth Table](https://en.wikipedia.org/wiki/Truth_table).
-
-* For part II:
-
-  * Read the entire question.
-
-  * If the question has multiple parts, solve the parts you know. You can get full credit for part (c) of a question even if you do not solve part (a) or (b).
-
-  * Make sure your hand writing is as neat as possible. Although you will not lose point for poor hand writing per say, however it will make the grader's life easier to give you points if they can make out what you wrote.
-
 ## Previous Free Response Questions
-The College Board releases the Free Response Questions from all previous years. Note that _GridWorld_ problems were removed in 2015. If you ssee any problems that evolves _GirdWorld_, skip it.
+The College Board releases the Free Response Questions from all previous years. Note that _GridWorld_ problems were removed in 2015. If you see any problems that evolves _GirdWorld_, skip it.
 
 [Released AP Computer Science A FRQs](https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam#apricot_n08D68rAT1)
 
@@ -124,7 +98,7 @@ The College Board releases the Free Response Questions from all previous years. 
 ## Want even more practice?
 {: id="even_more_practice"}
 
-* [CodingBat](https://codingbat.com/java) - Coding Bat has free response style questions that you may attempt to submit your code. Great to practice coding skills. 
+* [CodingBat](https://codingbat.com/java) - Coding Bat has free response style questions that you may attempt to submit your code. Great to practice coding skills.
 
 * [Code Step by Step (Java)](https://www.codestepbystep.com/problem/list/java) - A rather large collection of free response questions to practice.
 
